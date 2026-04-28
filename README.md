@@ -2,6 +2,9 @@
 Audit &amp; Pentest d'une infrastructure - Projets réalisés chez Guardia School PRO
 
 
+
+
+
 Dossier_Projet :
 
 Dans le cadre de ma préparation au sein de la Guardia Cybersecurity School, j'ai suivi un parcours de formation visant à acquérir les 
