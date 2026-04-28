@@ -18,6 +18,9 @@ Les compétences mobilisées, telles qu'elles sont définies dans le  référent
 L'infrastructure PROSECUREX utilisée pour ce projet est un environnement de simulation hébergé chez OVH. Ce dispositif est mis à 
 disposition par Guardia afin de répondre aux exigences pratiques de la certification RNCP37680BC03.
 
+L'audit à été réalisé en mode "White-Box", s'appuyant sur une visibilité complète des systèmes et des configurations de PROSECUREX. En 
+l'absence d'un environnement de test dédié (LAB), l'ensemble des analyses a été effectué directement sur l'infrastructure de production. Afin de garantir la continuité de service sur l'infrastructure de production, l'audit privilégie des analyses non-intrusives planifiés avec le DSI, tout en prenant des snapshots avant chaque intervention technique pour plus de sécurité.
+
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 Dossier_Professionnel (Pentest):
@@ -35,17 +38,4 @@ L’objectif de ce pentest était de :
 4) Réaliser une élévation de privilèges jusqu’à l’utilisateur administrateur (root)
 
 L’attaque a été réalisée depuis une machine “Kali Linux”, qui intègre de nombreux outils spécialisés dans 
-l’analyse de sécurité et les tests d’intrusion. 
-
-
-
-
-
-
-
-
-
-
-
-
-
+l’analyse de sécurité et les tests d’intrusion.
