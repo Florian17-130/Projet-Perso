@@ -1,11 +1,10 @@
 # Audit&Pentest-infrastructure
 Audit &amp; Pentest d'une infrastructure - Projets réalisés chez Guardia School PRO
 
-
-Dossier_Projet (Audit) :
-
 Dans le cadre de ma préparation au sein de la Guardia Cybersecurity School, j'ai suivi un parcours de formation visant à acquérir les 
 compétences inscrites dans le bloc de compétence n°3 du référentiel RNCP37680BC03 – Titre Professionnel Administrateur d'Infrastructures Sécurisées.
+
+Dossier_Projet (Audit) :
 
 Ce dossier a pour objectif de valoriser les travaux réalisés durant cette formation, en mettant en évidence l'application concrète des 
 compétences attendues. 
