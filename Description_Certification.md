@@ -27,7 +27,8 @@ Bienvenue sur ce dépôt regroupant mes travaux réalisés au sein de **Guardia 
 ### 🎯 Objectifs de la mission
 * **Reconnaissance :** Identification des vulnérabilités de surface.
 * **Exploitation :** Accès initial via l'exploitation de failles détectées.
-* **Post-Exploitation :** Analyse des erreurs de configuration et **élévation de privilèges (Root)**.
+* **Post-Exploitation :** Analyse des erreurs de configuration et élévation de privilèges (Root).
+* **Remédiation & Conseil :** Rédaction de préconisations techniques détaillées pour corriger les vulnérabilités et durcir le système
 
 ### 🛠️ Stack Technique
 * **OS Attaquant :** Kali Linux.
