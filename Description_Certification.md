@@ -36,10 +36,10 @@ Bienvenue sur ce dépôt regroupant mes travaux réalisés au sein de **Guardia 
 * **OS Attaquant :** Kali Linux.
 * **Méthodologie :** Pentest de type "Boîte Noire" (Black-Box) simulant une attaque externe réelle.
 
-📂 **[Consulter le Dossier de Pentest complet](./Dossier_Professionnel.pdf/)**
+📂 **[Consulter le Dossier de Pentest complet](./Dossier_professionnel.pdf/)**
 
 ---
 
 ## 📧 Contact & Liens
-- **LinkedIn :** [Ton lien ici]
+- **LinkedIn :** [linkedin.com/in/florian-ducousset-154a39250/]
 - **Titre Visé :** Administrateur d'Infrastructures Sécurisées (Niv. 6)
