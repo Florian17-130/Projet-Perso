@@ -41,5 +41,5 @@ Bienvenue sur ce dépôt regroupant mes travaux réalisés au sein de **Guardia 
 ---
 
 ## 📧 Contact & Liens
-- **LinkedIn :** [linkedin.com/in/florian-ducousset-154a39250/]
+- **LinkedIn :** linkedin.com/in/florian-ducousset-154a39250/
 - **Titre Visé :** Administrateur d'Infrastructures Sécurisées (Niv. 6)
