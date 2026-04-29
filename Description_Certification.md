@@ -20,7 +20,7 @@ Bienvenue sur ce dépôt regroupant mes travaux réalisés au sein de **Guardia 
 * **Audit en Production :** Analyses non-intrusives planifiées avec le DSI.
 * **Gestion des Risques :** Utilisation systématique de snapshots avant interventions techniques pour garantir la continuité de service.
 
-📂 **[Consulter le Dossier d'Audit complet](./Dossier_Projet_Audit/)**
+📂 **[Consulter le Dossier d'Audit complet](./Dossier_Projet.pdf/)**
 
 ---
 
@@ -36,7 +36,7 @@ Bienvenue sur ce dépôt regroupant mes travaux réalisés au sein de **Guardia 
 * **OS Attaquant :** Kali Linux.
 * **Méthodologie :** Pentest de type "Boîte Noire" (Black-Box) simulant une attaque externe réelle.
 
-📂 **[Consulter le Dossier de Pentest complet](./Dossier_Professionnel_Pentest/)**
+📂 **[Consulter le Dossier de Pentest complet](./Dossier_Professionnel.pdf/)**
 
 ---
 
