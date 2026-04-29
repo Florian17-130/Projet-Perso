@@ -1,6 +1,3 @@
-# Audit&Pentest-infrastructure
-Audit &amp; Pentest d'une infrastructure - Projets réalisés chez Guardia School PRO
-
 # 📂 Portfolio de Certification : Audit & Pentest d'Infrastructure
 
 Bienvenue sur ce dépôt regroupant mes travaux réalisés au sein de **Guardia Cybersecurity School**. Ce portfolio valide les compétences du bloc n°3 du titre RNCP37680 (Niveau 6) : **Administrateur d'Infrastructures Sécurisées**.
