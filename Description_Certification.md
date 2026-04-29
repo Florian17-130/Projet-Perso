@@ -21,7 +21,7 @@ Bienvenue sur ce dépôt regroupant mes travaux réalisés au sein de **Guardia 
 
 ---
 
-## 🛡️ Projet 2 : Pentest d'Environnement Critique (40p)
+## 🛡️ Projet 2 : Pentest d'Environnement Critique
 **Contexte :** Test d'intrusion sur un serveur pour l'entreprise fictive "Thales" en environnement LAB hors-production.
 
 ### 🎯 Objectifs de la mission
@@ -31,7 +31,7 @@ Bienvenue sur ce dépôt regroupant mes travaux réalisés au sein de **Guardia 
 
 ### 🛠️ Stack Technique
 * **OS Attaquant :** Kali Linux.
-* **Méthodologie :** Pentest de type "Boîte Noire" (Black-Box) simulant une attaque externe réelle.
+* **Méthodologie :** Pentest de type "Black-Box" simulant une attaque externe réelle.
 
 📂 **[Consulter le Dossier de Pentest complet](./Dossier_professionnel.pdf/)**
 
