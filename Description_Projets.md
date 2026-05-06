@@ -46,12 +46,12 @@ Bienvenue sur ce dépôt regroupant mes travaux réalisés au sein de **Guardia 
 * **Organisation par Muscle :** Système de catégories avec codes couleurs (Pecs, Dos, Jambes, etc.) pour une meilleure lisibilité.
 * **Gestion de la liste :** Simple clic : Marquer un exercice comme "terminé" (effet barré). + Double-clic : Supprimer un exercice en cas d'erreur.
 * **JavaScript :** Validation des formulaires avec alertes personnalisées pour éviter les entrées vides.
+* **Chronomètre de repos intégré :** Un timer configurable pour gérer les temps de récupération entre les séries avec une notification audio automatique à la fin du compte à rebours pour signaler la reprise de l'entraînement.
 
 ### 🛠️ Technologies utilisées
 * **HTML :** Structure sémantique du formulaire et de la liste.
 * **CSS :** Design moderne, responsive et feedback visuel (effets au survol, codes couleurs par groupe musculaire).
 * **JavaScript :** Manipulation du DOM, gestion des événements (clavier/souris) et logique conditionnelle.
-* **Chronomètre de repos intégré :** Un timer configurable pour gérer les temps de récupération entre les séries avec une notification audio automatique à la fin du compte à rebours pour signaler la reprise de l'entraînement.
 
 ### 📸 Aperçu
 
