@@ -1,4 +1,4 @@
-# 📂 Portfolio de Certification : Projets Personnels : Audit / Pentest d'Infrastructure & Construction d'un Site Web
+# 📂 Portfolio Projets Personnels : Audit / Pentest d'Infrastructure & Construction d'un Site Web
 
 Bienvenue sur ce dépôt regroupant mes travaux réalisés au sein de **Guardia Cybersecurity School**. Ce portfolio valide les compétences du bloc n°3 du titre RNCP37680 (Niveau 6) : **Administrateur d'Infrastructures Sécurisées**.
 
