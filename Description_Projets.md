@@ -42,19 +42,20 @@ Bienvenue sur ce dépôt regroupant mes travaux réalisés au sein de **Guardia 
 **Contexte :** Une application web interactive et légère permettant de suivre ses entraînements en temps réel. Ce projet a été conçu pour être rapide, intuitif et utilisable directement à la salle de sport.
 
 ### 🎯 Fonctionnalités
-* **Saisie rapide :** AAjout d'exercices avec poids et répétitions (format libre type "3x12" supporté).
+* **Saisie rapide :** Ajout d'exercices avec poids et répétitions (format libre type "3x12" supporté).
 * **Organisation par Muscle :** Système de catégories avec codes couleurs (Pecs, Dos, Jambes, etc.) pour une meilleure lisibilité.
 * **Gestion de la liste :** Simple clic : Marquer un exercice comme "terminé" (effet barré). + Double-clic : Supprimer un exercice en cas d'erreur.
 * **JavaScript :** Validation des formulaires avec alertes personnalisées pour éviter les entrées vides.
 
 ### 🛠️ Technologies utilisées
-* **HTML5 :** Structure sémantique du formulaire et de la liste.
-* **CSS3 :** Design moderne, responsive et feedback visuel (effets au survol, codes couleurs par groupe musculaire).
+* **HTML :** Structure sémantique du formulaire et de la liste.
+* **CSS :** Design moderne, responsive et feedback visuel (effets au survol, codes couleurs par groupe musculaire).
 * **JavaScript :** Manipulation du DOM, gestion des événements (clavier/souris) et logique conditionnelle.
 
 ### 📸 Aperçu
 
 <img width="826" height="562" alt="Capture d&#39;écran 2026-05-06 105427" src="https://github.com/user-attachments/assets/c6778fd3-a22a-4078-93fe-775775044fcd" />
+
 
 
 📂 **[Consulter la structure du site-web complete](./)**
