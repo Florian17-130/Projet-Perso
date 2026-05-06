@@ -51,6 +51,7 @@ Bienvenue sur ce dépôt regroupant mes travaux réalisés au sein de **Guardia 
 * **HTML :** Structure sémantique du formulaire et de la liste.
 * **CSS :** Design moderne, responsive et feedback visuel (effets au survol, codes couleurs par groupe musculaire).
 * **JavaScript :** Manipulation du DOM, gestion des événements (clavier/souris) et logique conditionnelle.
+* **Chronomètre de repos intégré :** Un timer configurable pour gérer les temps de récupération entre les séries avec une notification audio automatique à la fin du compte à rebours pour signaler la reprise de l'entraînement.
 
 ### 📸 Aperçu
 
